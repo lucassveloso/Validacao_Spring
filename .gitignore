@@ -1,0 +1,9 @@
+PastinhaDaZuera.iml
+PastinhaDaZuera.ipr
+PastinhaDaZuera.iws
+.gradle/
+.idea/
+gradle/
+build/
+*.class
+*.jar
