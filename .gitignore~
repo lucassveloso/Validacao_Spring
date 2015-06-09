@@ -5,7 +5,5 @@ Validacao_Spring.iws
 .idea/
 gradle/
 build/
-gradlew
-gradlew.bat
 *.class
 *.jar
